@@ -8,7 +8,7 @@ A supervised machine learning web application that classifies news articles or h
 This project uses TF-IDF vectorization combined with classical supervised learning algorithms (Logistic Regression, Multinomial Naive Bayes, and Random Forest) to classify news text as real or fake. The final model is deployed through a Streamlit web app with a custom, polished UI, allowing users to paste any news headline or article and instantly get a prediction with a confidence score.
 
 ## 📊 Dataset
-- Source: [Fake and Real News Dataset (ISOT)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv)
+- Source: [Fake and Real News Dataset (ISOT - Kaggle)](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv)
 - Files used: Fake.csv, True.csv
 - Size: ~44,000 labeled news articles combined
 - Columns: title, text, subject, date
